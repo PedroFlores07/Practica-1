@@ -9,7 +9,7 @@ En este curso aprenderemos a programar en Python.
 
 --------
 
-![Logo de Python](imagenes\Pyton_logo.png)
+![Logo de Python](https://raw.githubusercontent.com/PedroFlores07/Sesion-Bonus-1/main/imagenes/Pyton_logo.png)
 
 ------
 
